@@ -58,6 +58,7 @@ Tampilkan data pada _Views_ `welcome_message.php`
 ```
 
 
+> unlock spesial 10k member Codeigniter Indonesia.. 😎
 > Semoga bermanfaat..
 
 _ian_
