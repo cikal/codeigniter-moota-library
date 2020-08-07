@@ -5,7 +5,7 @@ Moota merupakan aplikasi untuk pengecekan mutasi dan saldo rekening, dimana muta
 
 ## Instalasi
 
-Clone / Download repo ini kemudian extract file `application/librararies/Moota.php` kedalam folder `application/libraries` project anda.
+Clone / Download repo ini kemudian extract file `application/libraries/Moota.php` kedalam folder `application/libraries` project anda.
 
 
 ## Konfigurasi
